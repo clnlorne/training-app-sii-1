@@ -9,6 +9,4 @@ private void fn2()
 private void fn3()
 {
 }
-
 }
-
